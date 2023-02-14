@@ -1,2 +1,2 @@
 #!/bi/bash
-head -3 icta
+head -3 icta | tail -1
